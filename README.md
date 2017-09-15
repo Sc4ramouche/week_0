@@ -1,7 +1,7 @@
 Выступление на тему "Инструменты онлайн-валидации XML-документов"
 
 Ссылка на презентацию:
-https://docs.google.com/presentation/d/1MnUjzuutmTuZAtYxUPGJIBdWG_X39BSreNtfD5yG-WA/edit#slide=id.g269754ce3a_1_0
+https://docs.google.com/presentation/d/1MnUjzuutmTuZAtYxUPGJIBdWG_X39BSreNtfD5yG-WA/edit?usp=sharing
 
 Ссылки на валидаторы:
 
